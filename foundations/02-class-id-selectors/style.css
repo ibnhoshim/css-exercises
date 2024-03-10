@@ -1,0 +1,18 @@
+.first {
+	background-color: pink;
+	font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#sec {
+	color: blue;
+	font-size: 32px;
+}
+
+.third {
+	font-size: 24px;
+}
+
+#four {
+	background-color: green;
+	font-weight: bold;
+}
